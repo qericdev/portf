@@ -385,7 +385,7 @@ export default function Home() {
         </div>
         <div className={submit ? styles.submittedForm : styles.hidden}>
           <h3>Thank You!</h3>
-          <p>I've received your message and will get back to you within 24 hours.</p>
+          <p>I&apos;ve received your message and will get back to you within 24 hours.</p>
           <button onClick={() => {setSubmit(prevSubmit => !prevSubmit)}}>Ok, Close</button>
         </div>
       </section>
@@ -401,8 +401,8 @@ export default function Home() {
         </div>
         <div>
           <a href="#contact"><img src="./../images/Emailfooter.svg"/></a>
-          <a href="https://www.linkedin.com/in/erickrojasm/" target="_blank"><img src="./../images/Linkedinfooter.svg"/></a>
-          <a href="https://twitter.com/qericr" target="_blank"><img src="./../images/Twitterfooter.svg"/></a>
+          <a href="https://www.linkedin.com/in/erickrojasm/" target="_blank" rel="noreferrer"><img src="./../images/Linkedinfooter.svg"/></a>
+          <a href="https://twitter.com/qericr" target="_blank" rel="noreferrer"><img src="./../images/Twitterfooter.svg"/></a>
         </div>
         <p>@2022 Erick Rojas -  All Rights Reserved</p>
 

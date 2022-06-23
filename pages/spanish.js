@@ -78,8 +78,8 @@ export default function Spanish() {
             <h5>Desarrollador Web <br/> (Front End, Web3)</h5>
             <div>
               <a href="#contact"><img src="./../images/Email.svg"/></a>
-              <a href="https://www.linkedin.com/in/erickrojasm/" target="_blank"><img src="./../images/Linkedin.svg"/></a>
-              <a href="https://twitter.com/qericr" target="_blank"><img src="./../images/Twitter.svg"/></a>
+              <a href="https://www.linkedin.com/in/erickrojasm/" target="_blank" rel="noreferrer"><img src="./../images/Linkedin.svg"/></a>
+              <a href="https://twitter.com/qericr" target="_blank" rel="noreferrer"><img src="./../images/Twitter.svg"/></a>
             </div>
           </div>
 
@@ -229,7 +229,7 @@ export default function Spanish() {
             <div className={styles.projectDetails}>
               <h3>Buscador de Películas</h3>
               <p>Encuentra y guarda tu película favorita <br/> (Javascript y API de películas)</p>
-              <a href="https://movie-watch-three.vercel.app/" target="_blank"><button>Demo</button></a>
+              <a href="https://movie-watch-three.vercel.app/" target="_blank" rel="noreferrer"><button>Demo</button></a>
             </div>
           </div>
           <div>
@@ -237,7 +237,7 @@ export default function Spanish() {
             <div className={styles.projectDetails}>
               <h3>Juego Wordle</h3>
               <p>El juego Wordle recreado<br/>(React, API diccionario)</p>
-              <a href="https://wordle-game-teal.vercel.app/" target="_blank"><button>Demo</button></a>
+              <a href="https://wordle-game-teal.vercel.app/" target="_blank" rel="noreferrer"><button>Demo</button></a>
             </div>
           </div>
           <div>
@@ -245,7 +245,7 @@ export default function Spanish() {
             <div className={styles.projectDetails}>
               <h3>Reto de 100 Días</h3>
               <p> Seguidor de hábitos con almacenamiento local <br/>(React, Next)</p>
-              <a href="https://100days-zeta.vercel.app/" target="_blank"><button>Demo</button></a>
+              <a href="https://100days-zeta.vercel.app/" target="_blank" rel="noreferrer"><button>Demo</button></a>
             </div>
           </div>
           <div>
@@ -253,7 +253,7 @@ export default function Spanish() {
               <div className={styles.projectDetails}>
                 <h3>Juego de Memoria</h3>
                 <p>Minijuego y evento de Airdrop <br/>(Javascript, React, Next, Solidity, Hardhat, Ethers)</p>
-                <a href="https://web3projects-qericdev.vercel.app/airdrop" target="_blank"><button>Demo</button></a>
+                <a href="https://web3projects-qericdev.vercel.app/airdrop" target="_blank" rel="noreferrer"><button>Demo</button></a>
               </div>
           </div>
           <div>
@@ -261,7 +261,7 @@ export default function Spanish() {
               <div className={styles.projectDetails}>
                 <h3>Evento ICO</h3>
                 <p>Puedes mintear tokens para un proyecto web3 <br/>(Javascript, React, Next, Solidity, Hardhat, Ethers)</p>
-                <a href="https://web3projects-qericdev.vercel.app/ico" target="_blank"><button>Demo</button></a>
+                <a href="https://web3projects-qericdev.vercel.app/ico" target="_blank" rel="noreferrer"><button>Demo</button></a>
               </div>
           </div>
           <div>
@@ -269,7 +269,7 @@ export default function Spanish() {
               <div className={styles.projectDetails}>
                 <h3>Tragamonedas y whitelist</h3>
                 <p>Juego de tragamonedas con Whitelist <br/>(Javascript, React, Next, Solidity, Hardhat, Ethers)</p>
-                <a href="https://web3projects-qericdev.vercel.app/premiumslot9357" target="_blank"><button>Demo</button></a>
+                <a href="https://web3projects-qericdev.vercel.app/premiumslot9357" target="_blank" rel="noreferrer"><button>Demo</button></a>
               </div>
           </div>
           <div>
@@ -277,7 +277,7 @@ export default function Spanish() {
             <div className={styles.projectDetails}>
               <h3>Máquina de Música</h3>
               <p>Toca música usando el mouse o teclado <br/>(React, Javascript)</p>
-              <a href="https://drum-machine-woad-seven.vercel.app/" target="_blank"><button>Demo</button></a>
+              <a href="https://drum-machine-woad-seven.vercel.app/" target="_blank" rel="noreferrer"><button>Demo</button></a>
             </div>
           </div>
           <div>
@@ -285,7 +285,7 @@ export default function Spanish() {
             <div className={styles.projectDetails}>
               <h3>Reloj 25 + 5</h3>
               <p>Reloj Pomodoro personalizable <br/>(React, Javascript)</p>
-              <a href="https://25clock-qericdev.vercel.app/" target="_blank"><button>Demo</button></a>
+              <a href="https://25clock-qericdev.vercel.app/" target="_blank" rel="noreferrer"><button>Demo</button></a>
             </div>
           </div>
           <div>
@@ -293,7 +293,7 @@ export default function Spanish() {
             <div className={styles.projectDetails}>
               <h3>Generador de Contraseñas</h3>
               <p>Genera una contraseña segura <br/>(Javascript)</p>
-              <a href="https://password-generator-qericdev.vercel.app/" target="_blank"><button>Demo</button></a>
+              <a href="https://password-generator-qericdev.vercel.app/" target="_blank" rel="noreferrer"><button>Demo</button></a>
             </div>
           </div>
         </div>
@@ -303,7 +303,7 @@ export default function Spanish() {
               <div className={styles.projectDetails}>
                 <h3>Tragamonedas y whitelist</h3>
                 <p>Juego de tragamonedas con Whitelist <br/>(Javascript, React, Next, Solidity, Hardhat, Ethers)</p>
-                <a href="https://web3projects-qericdev.vercel.app/premiumslot9357" target="_blank"><button>Demo</button></a>
+                <a href="https://web3projects-qericdev.vercel.app/premiumslot9357" target="_blank" rel="noreferrer"><button>Demo</button></a>
               </div>
           </div>
           <div>
@@ -311,7 +311,7 @@ export default function Spanish() {
               <div className={styles.projectDetails}>
                 <h3>Juego de Memoria</h3>
                 <p>Minijuego y evento de Airdrop <br/>(Javascript, React, Next, Solidity, Hardhat, Ethers)</p>
-                <a href="https://web3projects-qericdev.vercel.app/airdrop" target="_blank"><button>Demo</button></a>
+                <a href="https://web3projects-qericdev.vercel.app/airdrop" target="_blank" rel="noreferrer"><button>Demo</button></a>
               </div>
           </div>
           <div>
@@ -319,7 +319,7 @@ export default function Spanish() {
               <div className={styles.projectDetails}>
                 <h3>Evento ICO</h3>
                 <p>Puedes mintear tokens para un proyecto web3 <br/>(Javascript, React, Next, Solidity, Hardhat, Ethers)</p>
-                <a href="https://web3projects-qericdev.vercel.app/ico" target="_blank"><button>Demo</button></a>
+                <a href="https://web3projects-qericdev.vercel.app/ico" target="_blank" rel="noreferrer"><button>Demo</button></a>
               </div>
           </div>
         </div>
@@ -329,7 +329,7 @@ export default function Spanish() {
             <div className={styles.projectDetails}>
               <h3>Buscador de Películas</h3>
               <p>Encuentra y guarda tu película favorita <br/> (Javascript y API de películas)</p>
-              <a href="https://movie-watch-three.vercel.app/" target="_blank"><button>Demo</button></a>
+              <a href="https://movie-watch-three.vercel.app/" target="_blank" rel="noreferrer"><button>Demo</button></a>
             </div>
           </div>
           <div>
@@ -337,7 +337,7 @@ export default function Spanish() {
             <div className={styles.projectDetails}>
               <h3>Juego Wordle</h3>
               <p>El juego Wordle recreado<br/>(React, API diccionario)</p>
-              <a href="https://wordle-game-teal.vercel.app/" target="_blank"><button>Demo</button></a>
+              <a href="https://wordle-game-teal.vercel.app/" target="_blank" rel="noreferrer"><button>Demo</button></a>
             </div>
           </div>
           <div>
@@ -345,7 +345,7 @@ export default function Spanish() {
             <div className={styles.projectDetails}>
               <h3>Reto de 100 Días</h3>
               <p> Seguidor de hábitos con almacenamiento local <br/>(React, Next)</p>
-              <a href="https://100days-zeta.vercel.app/" target="_blank"><button>Demo</button></a>
+              <a href="https://100days-zeta.vercel.app/" target="_blank" rel="noreferrer"><button>Demo</button></a>
             </div>
           </div>
           <div>
@@ -353,7 +353,7 @@ export default function Spanish() {
             <div className={styles.projectDetails}>
               <h3>Máquina de Música</h3>
               <p>Toca música usando el mouse o teclado <br/>(React, Javascript)</p>
-              <a href="https://drum-machine-woad-seven.vercel.app/" target="_blank"><button>Demo</button></a>
+              <a href="https://drum-machine-woad-seven.vercel.app/" target="_blank" rel="noreferrer"><button>Demo</button></a>
             </div>
           </div>
           <div>
@@ -361,7 +361,7 @@ export default function Spanish() {
             <div className={styles.projectDetails}>
               <h3>Reloj 25 + 5</h3>
               <p>Reloj Pomodoro personalizable <br/>(React, Javascript)</p>
-              <a href="https://25clock-qericdev.vercel.app/" target="_blank"><button>Demo</button></a>
+              <a href="https://25clock-qericdev.vercel.app/" target="_blank" rel="noreferrer"><button>Demo</button></a>
             </div>
           </div>
           <div>
@@ -369,7 +369,7 @@ export default function Spanish() {
             <div className={styles.projectDetails}>
               <h3>Generador de Contraseñas</h3>
               <p>Genera una contraseña segura <br/>(Javascript)</p>
-              <a href="https://password-generator-qericdev.vercel.app/" target="_blank"><button>Demo</button></a>
+              <a href="https://password-generator-qericdev.vercel.app/" target="_blank" rel="noreferrer"><button>Demo</button></a>
             </div>
           </div>
         </div>
@@ -410,8 +410,8 @@ export default function Spanish() {
         </div>
         <div>
           <a href="#contact"><img src="./../images/Emailfooter.svg"/></a>
-          <a href="https://www.linkedin.com/in/erickrojasm/" target="_blank"><img src="./../images/Linkedinfooter.svg"/></a>
-          <a href="https://twitter.com/qericr" target="_blank"><img src="./../images/Twitterfooter.svg"/></a>
+          <a href="https://www.linkedin.com/in/erickrojasm/" target="_blank" rel="noreferrer"><img src="./../images/Linkedinfooter.svg"/></a>
+          <a href="https://twitter.com/qericr" target="_blank" rel="noreferrer"><img src="./../images/Twitterfooter.svg"/></a>
         </div>
         <p>@2022 Erick Rojas -  Todos los derechos reservados</p>
 
