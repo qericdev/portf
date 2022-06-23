@@ -1,0 +1,28 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  scroll-behavior: smooth;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.inputForm {
+  width: 40em;
+  height: 2em;
+  background-color: transparent;
+  border: none;
+  border-left: 0.2em solid #000;
+  border-bottom: 0.2em solid #000;
+  margin-bottom: 3em;
+  font-size: 0.8rem;
+}
