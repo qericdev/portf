@@ -69,8 +69,8 @@ export default function Home() {
             <h5>Front End Developer / Web3 Developer</h5>
             <div>
               <a href="#contact"><img src="./../images/Email.svg"/></a>
-              <a href="https://www.linkedin.com/in/erickrojasm/" target="_blank"><img src="./../images/Linkedin.svg"/></a>
-              <a href="https://twitter.com/qericr" target="_blank"><img src="./../images/Twitter.svg"/></a>
+              <a href="https://www.linkedin.com/in/erickrojasm/" target="_blank" rel="noreferrer"><img src="./../images/Linkedin.svg"/></a>
+              <a href="https://twitter.com/qericr" target="_blank" rel="noreferrer"><img src="./../images/Twitter.svg"/></a>
             </div>
           </div>
           <div className={styles.heroRight}>
@@ -88,7 +88,7 @@ export default function Home() {
           <p>The following principles are part of my philosophy of life:</p>
           <ol>
             <li><span>Focus</span> : Everything starts to work if you put all your effort into one thing at a time.</li>
-            <li><span>Chase your passion</span> : Try many activities until you find something you enjoy doing. Don't make decisions based on money. Find it and stick to it.</li>
+            <li><span>Chase your passion</span> : Try many activities until you find something you enjoy doing. Don&apos;t make decisions based on money. Find it and stick to it.</li>
             <li><span>Attitude</span> : It plays a very important role in achieving goals. Much more than Aptitude.</li>
             <li><span>Discomfort </span> : The only way to keep growing is to do things that make you feel uncomfortable.</li>
             <li><span>Never give up</span> : If something works out the first time, good! If not, keep trying, actions have a higher purpose, our dreams.</li>
@@ -219,7 +219,7 @@ export default function Home() {
             <div className={styles.projectDetails}>
               <h3>Movie Finder</h3>
               <p>Find and save your favorite movie <br/> (Javascript and a movie API)</p>
-              <a href="https://movie-watch-three.vercel.app/" target="_blank"><button>Demo</button></a>
+              <a href="https://movie-watch-three.vercel.app/" target="_blank" rel="noreferrer"><button>Demo</button></a>
             </div>
           </div>
           <div>
@@ -227,7 +227,7 @@ export default function Home() {
             <div className={styles.projectDetails}>
               <h3>Wordle Game</h3>
               <p>The wordle game recreated<br/>(React, Dictionary API)</p>
-              <a href="https://wordle-game-teal.vercel.app/" target="_blank"><button>Demo</button></a>
+              <a href="https://wordle-game-teal.vercel.app/" target="_blank" rel="noreferrer"><button>Demo</button></a>
             </div>
           </div>
           <div>
@@ -235,7 +235,7 @@ export default function Home() {
             <div className={styles.projectDetails}>
               <h3>One Hundred Challenge</h3>
               <p> Habit Tracker with a local storage <br/>(React, Next)</p>
-              <a href="https://100days-zeta.vercel.app/" target="_blank"><button>Demo</button></a>
+              <a href="https://100days-zeta.vercel.app/" target="_blank" rel="noreferrer"><button>Demo</button></a>
             </div>
           </div>
           <div>
@@ -243,7 +243,7 @@ export default function Home() {
               <div className={styles.projectDetails}>
                 <h3>Memory Game</h3>
                 <p>Aidrop Event and minigame <br/>(Javascript, React, Next, Solidity, Hardhat, Ethers)</p>
-                <a href="https://web3projects-qericdev.vercel.app/airdrop" target="_blank"><button>Demo</button></a>
+                <a href="https://web3projects-qericdev.vercel.app/airdrop" target="_blank" rel="noreferrer"><button>Demo</button></a>
               </div>
           </div>
           <div>
@@ -251,7 +251,7 @@ export default function Home() {
               <div className={styles.projectDetails}>
                 <h3>ICO Event</h3>
                 <p>Mint Tokens for a project <br/>(Javascript, React, Next, Solidity, Hardhat, Ethers)</p>
-                <a href="https://web3projects-qericdev.vercel.app/ico" target="_blank"><button>Demo</button></a>
+                <a href="https://web3projects-qericdev.vercel.app/ico" target="_blank" rel="noreferrer"><button>Demo</button></a>
               </div>
           </div>
           <div>
@@ -259,7 +259,7 @@ export default function Home() {
               <div className={styles.projectDetails}>
                 <h3>Slot Machine and Whitelist</h3>
                 <p>Whitelist Game <br/>(Javascript, React, Next, Solidity, Hardhat, Ethers)</p>
-                <a href="https://web3projects-qericdev.vercel.app/premiumslot9357" target="_blank"><button>Demo</button></a>
+                <a href="https://web3projects-qericdev.vercel.app/premiumslot9357" target="_blank" rel="noreferrer"><button>Demo</button></a>
               </div>
           </div>
           <div>
@@ -267,7 +267,7 @@ export default function Home() {
             <div className={styles.projectDetails}>
               <h3>Drum Machine</h3>
               <p>Play a drum machine using mouse or keyboard <br/>(React)</p>
-              <a href="https://drum-machine-woad-seven.vercel.app/" target="_blank"><button>Demo</button></a>
+              <a href="https://drum-machine-woad-seven.vercel.app/" target="_blank" rel="noreferrer"><button>Demo</button></a>
             </div>
           </div>
           <div>
@@ -275,7 +275,7 @@ export default function Home() {
             <div className={styles.projectDetails}>
               <h3>25 + 5 Clock</h3>
               <p> Customizable Pomodoro clock <br/>(React)</p>
-              <a href="https://25clock-qericdev.vercel.app/" target="_blank"><button>Demo</button></a>
+              <a href="https://25clock-qericdev.vercel.app/" target="_blank" rel="noreferrer"><button>Demo</button></a>
             </div>
           </div>
           <div>
@@ -283,7 +283,7 @@ export default function Home() {
             <div className={styles.projectDetails}>
               <h3>Password Generator</h3>
               <p>Generate a secure password <br/>(Javascript)</p>
-              <a href="https://password-generator-qericdev.vercel.app/" target="_blank"><button>Demo</button></a>
+              <a href="https://password-generator-qericdev.vercel.app/" target="_blank" rel="noreferrer"><button>Demo</button></a>
             </div>
           </div>
   
@@ -294,7 +294,7 @@ export default function Home() {
               <div className={styles.projectDetails}>
                 <h3>Slot Machine and Whitelist</h3>
                 <p>Whitelist Game <br/>(Javascript, React, Next, Solidity, Hardhat, Ethers)</p>
-                <a href="https://web3projects-qericdev.vercel.app/premiumslot9357" target="_blank"><button>Demo</button></a>
+                <a href="https://web3projects-qericdev.vercel.app/premiumslot9357" target="_blank" rel="noreferrer"><button>Demo</button></a>
               </div>
           </div>
           <div>
@@ -302,7 +302,7 @@ export default function Home() {
               <div className={styles.projectDetails}>
                 <h3>Memory Game</h3>
                 <p>Aidrop Event and minigame <br/>(Javascript, React, Next, Solidity, Hardhat, Ethers)</p>
-                <a href="https://web3projects-qericdev.vercel.app/airdrop" target="_blank"><button>Demo</button></a>
+                <a href="https://web3projects-qericdev.vercel.app/airdrop" target="_blank" rel="noreferrer"><button>Demo</button></a>
               </div>
           </div>
           <div>
@@ -310,7 +310,7 @@ export default function Home() {
               <div className={styles.projectDetails}>
                 <h3>ICO Event</h3>
                 <p>Mint Tokens for a project <br/>(Javascript, React, Next, Solidity, Hardhat, Ethers)</p>
-                <a href="https://web3projects-qericdev.vercel.app/ico" target="_blank"><button>Demo</button></a>
+                <a href="https://web3projects-qericdev.vercel.app/ico" target="_blank" rel="noreferrer"><button>Demo</button></a>
               </div>
           </div>
         </div>
@@ -320,7 +320,7 @@ export default function Home() {
             <div className={styles.projectDetails}>
               <h3>Movie Finder</h3>
               <p>Find and save your favorite movie <br/> (Javascript and a movie API)</p>
-              <a href="https://movie-watch-three.vercel.app/" target="_blank"><button>Demo</button></a>
+              <a href="https://movie-watch-three.vercel.app/" target="_blank" rel="noreferrer"><button>Demo</button></a>
             </div>
           </div>
           <div>
@@ -328,7 +328,7 @@ export default function Home() {
             <div className={styles.projectDetails}>
               <h3>Wordle Game</h3>
               <p>The wordle game recreated<br/>(React, Dictionary API)</p>
-              <a href="https://wordle-game-teal.vercel.app/" target="_blank"><button>Demo</button></a>
+              <a href="https://wordle-game-teal.vercel.app/" target="_blank" rel="noreferrer"><button>Demo</button></a>
             </div>
           </div>
           <div>
@@ -336,7 +336,7 @@ export default function Home() {
             <div className={styles.projectDetails}>
               <h3>One Hundred Challenge</h3>
               <p> Habit Tracker with a local storage <br/>(React, Next)</p>
-              <a href="https://100days-zeta.vercel.app/" target="_blank"><button>Demo</button></a>
+              <a href="https://100days-zeta.vercel.app/" target="_blank" rel="noreferrer"><button>Demo</button></a>
             </div>
           </div>
           <div>
@@ -344,7 +344,7 @@ export default function Home() {
             <div className={styles.projectDetails}>
               <h3>Drum Machine</h3>
               <p>Play a drum machine using mouse or keyboard <br/>(React)</p>
-              <a href="https://drum-machine-woad-seven.vercel.app/" target="_blank"><button>Demo</button></a>
+              <a href="https://drum-machine-woad-seven.vercel.app/" target="_blank" rel="noreferrer"><button>Demo</button></a>
             </div>
           </div>
           <div>
@@ -352,7 +352,7 @@ export default function Home() {
             <div className={styles.projectDetails}>
               <h3>25 + 5 Clock</h3>
               <p> Customizable Pomodoro clock <br/>(React)</p>
-              <a href="https://25clock-qericdev.vercel.app/" target="_blank"><button>Demo</button></a>
+              <a href="https://25clock-qericdev.vercel.app/" target="_blank" rel="noreferrer"><button>Demo</button></a>
             </div>
           </div>
           <div>
@@ -360,7 +360,7 @@ export default function Home() {
             <div className={styles.projectDetails}>
               <h3>Password Generator</h3>
               <p>Generate a secure password <br/>(Javascript)</p>
-              <a href="https://password-generator-qericdev.vercel.app/" target="_blank"><button>Demo</button></a>
+              <a href="https://password-generator-qericdev.vercel.app/" target="_blank" rel="noreferrer"><button>Demo</button></a>
             </div>
           </div>
         </div>
