@@ -243,7 +243,7 @@ export default function Home() {
               <div className={styles.projectDetails}>
                 <h3>Memory Game</h3>
                 <p>Aidrop Event and minigame <br/>(Javascript, React, Next, Solidity, Hardhat, Ethers)</p>
-                <button>Demo</button>
+                <a href="https://web3projects-qericdev.vercel.app/airdrop" target="_blank"><button>Demo</button></a>
               </div>
           </div>
           <div>
@@ -251,7 +251,7 @@ export default function Home() {
               <div className={styles.projectDetails}>
                 <h3>ICO Event</h3>
                 <p>Mint Tokens for a project <br/>(Javascript, React, Next, Solidity, Hardhat, Ethers)</p>
-                <button>Demo</button>
+                <a href="https://web3projects-qericdev.vercel.app/ico" target="_blank"><button>Demo</button></a>
               </div>
           </div>
           <div>
@@ -259,7 +259,7 @@ export default function Home() {
               <div className={styles.projectDetails}>
                 <h3>Slot Machine and Whitelist</h3>
                 <p>Whitelist Game <br/>(Javascript, React, Next, Solidity, Hardhat, Ethers)</p>
-                <button>Demo</button>
+                <a href="https://web3projects-qericdev.vercel.app/premiumslot9357" target="_blank"><button>Demo</button></a>
               </div>
           </div>
           <div>
@@ -294,7 +294,7 @@ export default function Home() {
               <div className={styles.projectDetails}>
                 <h3>Slot Machine and Whitelist</h3>
                 <p>Whitelist Game <br/>(Javascript, React, Next, Solidity, Hardhat, Ethers)</p>
-                <button>Demo</button>
+                <a href="https://web3projects-qericdev.vercel.app/premiumslot9357" target="_blank"><button>Demo</button></a>
               </div>
           </div>
           <div>
@@ -302,7 +302,7 @@ export default function Home() {
               <div className={styles.projectDetails}>
                 <h3>Memory Game</h3>
                 <p>Aidrop Event and minigame <br/>(Javascript, React, Next, Solidity, Hardhat, Ethers)</p>
-                <button>Demo</button>
+                <a href="https://web3projects-qericdev.vercel.app/airdrop" target="_blank"><button>Demo</button></a>
               </div>
           </div>
           <div>
@@ -310,7 +310,7 @@ export default function Home() {
               <div className={styles.projectDetails}>
                 <h3>ICO Event</h3>
                 <p>Mint Tokens for a project <br/>(Javascript, React, Next, Solidity, Hardhat, Ethers)</p>
-                <button>Demo</button>
+                <a href="https://web3projects-qericdev.vercel.app/ico" target="_blank"><button>Demo</button></a>
               </div>
           </div>
         </div>
