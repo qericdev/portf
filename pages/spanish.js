@@ -80,6 +80,7 @@ export default function Spanish() {
               <a href="#contact"><img src="./../images/Email.svg"/></a>
               <a href="https://www.linkedin.com/in/erickrojasm/" target="_blank" rel="noreferrer"><img src="./../images/Linkedin.svg"/></a>
               <a href="https://twitter.com/qericr" target="_blank" rel="noreferrer"><img src="./../images/Twitter.svg"/></a>
+              <a href="https://github.com/qericdev" target="_blank" rel="noreferrer"><img src="./../images/Github.png"/></a>
             </div>
           </div>
 
@@ -412,6 +413,7 @@ export default function Spanish() {
           <a href="#contact"><img src="./../images/Emailfooter.svg"/></a>
           <a href="https://www.linkedin.com/in/erickrojasm/" target="_blank" rel="noreferrer"><img src="./../images/Linkedinfooter.svg"/></a>
           <a href="https://twitter.com/qericr" target="_blank" rel="noreferrer"><img src="./../images/Twitterfooter.svg"/></a>
+          <a href="https://github.com/qericdev" target="_blank" rel="noreferrer"><img src="./../images/Githublight.png"/></a>
         </div>
         <p>@2022 Erick Rojas -  Todos los derechos reservados</p>
 
