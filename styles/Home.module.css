@@ -860,4 +860,8 @@ FOOTER SECTION
   .emptyForm {
     width: 80%;
   }
+  
+  .footer > p {
+    padding: 0 2em;
+  }
 }
