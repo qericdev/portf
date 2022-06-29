@@ -160,6 +160,11 @@ export default function Home() {
           <img src="./../images/Figma.svg"/>
             <p>Figma</p>
           </div>
+          <div>
+          <img src="./../images/C.svg"/>
+            <p>C</p>
+          </div>
+          
           
         </div>
         <h2>Learning</h2>

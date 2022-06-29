@@ -170,6 +170,10 @@ export default function Spanish() {
           <img src="./../images/Figma.svg"/>
             <p>Figma</p>
           </div>
+          <div>
+          <img src="./../images/C.svg"/>
+            <p>C</p>
+          </div>
           
         </div>
         <h2>Aprendiendo</h2>
