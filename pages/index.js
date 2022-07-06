@@ -66,7 +66,7 @@ export default function Home() {
             <img src="./../images/Logo.svg"/>
             <h3>Hi, I am</h3>
             <h1>Erick Rojas</h1>
-            <h5>Front End Developer / Web3 Developer</h5>
+            <h5>Front End Developer</h5>
             <div>
               <a href="#contact"><img src="./../images/Email.svg"/></a>
               <a href="https://www.linkedin.com/in/erickrojasm/" target="_blank" rel="noreferrer"><img src="./../images/Linkedin.svg"/></a>

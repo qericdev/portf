@@ -75,7 +75,7 @@ export default function Spanish() {
             <img src="./../images/Logo.svg"/>
             <h3>Hola, mi nombre es</h3>
             <h1>Erick Rojas</h1>
-            <h5>Desarrollador Web <br/> (Front End, Web3)</h5>
+            <h5>Desarrollador Web <br/> (Front End)</h5>
             <div>
               <a href="#contact"><img src="./../images/Email.svg"/></a>
               <a href="https://www.linkedin.com/in/erickrojasm/" target="_blank" rel="noreferrer"><img src="./../images/Linkedin.svg"/></a>
